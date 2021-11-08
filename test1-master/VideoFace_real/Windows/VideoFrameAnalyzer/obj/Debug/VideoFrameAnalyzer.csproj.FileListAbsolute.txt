@@ -1,0 +1,139 @@
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll.config
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll.config
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojAssemblyReference.cache
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CoreCompileInputs.cache
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CopyComplete
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcp120.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcr120.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_world310.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcp120.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcr120.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_world310.dll
+F:\Samples\Cognitive-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcp120.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcr120.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_world310.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcp120.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcr120.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_world310.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll.config
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll.config
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojAssemblyReference.cache
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CoreCompileInputs.cache
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CopyComplete
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+F:\Samples\Hanium2-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcp120.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcr120.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_world310.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcp120.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcr120.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_world310.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll.config
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CoreCompileInputs.cache
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CopyComplete
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+C:\Hanium-VideoFrameAnalysis\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojAssemblyReference.cache
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_world310.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_world310.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll.config
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojAssemblyReference.cache
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CopyComplete
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+C:\Users\명진\Documents\카카오톡 받은 파일\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_world310.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_world310.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll.config
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csproj.CopyComplete
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+C:\Users\명진\Desktop\VideoFace\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb

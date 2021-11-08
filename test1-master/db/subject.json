@@ -1,0 +1,42 @@
+[
+  {
+    "subject_name": "System(01)",
+    "professor": "임성채",
+    "subject_id": "1000"
+  },
+  {
+    "subject_name": "System(02)",
+    "professor": "이완연",
+    "subject_id": "1001"
+  },
+  {
+    "subject_name": "Mobile S/W(01)",
+    "professor": "최윤석",
+    "subject_id": "1002"
+  },
+  {
+    "subject_name": "Mobile S/W(02)",
+    "professor": "최윤석",
+    "subject_id": "1003"
+  },
+  {
+    "subject_name": "Web Service(01)",
+    "professor": "박창섭",
+    "subject_id": "1004"
+  },
+  {
+    "subject_name": "Web Service(02)",
+    "professor": "박창섭",
+    "subject_id": "1005"
+  },
+  {
+    "subject_name": "Algorithm(01)",
+    "professor": "한혁",
+    "subject_id": "1006"
+  },
+  {
+    "subject_name": "Algorithm(02)",
+    "professor": "한혁",
+    "subject_id": "1007"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T17:57:00",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T17:57:00",
+    "student_number": 20190102
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T17:57:00",
+    "student_number": 20190103
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T17:57:00",
+    "student_number": 20190104
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T17:57:00",
+    "student_number": 20190104
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T09:47:47.68",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-09T09:50:09.027",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T18:51:17.86",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T18:54:04.49",
+    "student_number": 20190103
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-07T19:01:12.553",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-07T19:07:46.253",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-12T02:25:04.877",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-12T02:25:07.617",
+    "student_number": 20190102
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-12T02:30:53.637",
+    "student_number": 20190103
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-12T02:32:44.167",
+    "student_number": 20190103
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-20T12:33:00.493",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T17:57:00",
+    "student_number": 20190105
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-07-31T19:04:28.62",
+    "student_number": 20190103
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-07T19:11:54.577",
+    "student_number": 20190102
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-07T19:12:00.657",
+    "student_number": 20190101
+  },
+  {
+    "subject_id": "1000",
+    "date": "2019-08-12T03:30:13.433",
+    "student_number": 20190103
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "student_number": 20190101,
+    "password": "1234",
+    "name": "강예지",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190102,
+    "password": "1234",
+    "name": "김문정",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190103,
+    "password": "1234",
+    "name": "김명진",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190104,
+    "password": "1234",
+    "name": "김은정",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190105,
+    "password": "1234",
+    "name": "김수영",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190106,
+    "password": "1234",
+    "name": "김서인",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190107,
+    "password": "1234",
+    "name": "나인영",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190108,
+    "password": "1234",
+    "name": "도인아",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190109,
+    "password": "1234",
+    "name": "변수아",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190110,
+    "password": "1234",
+    "name": "박혜인",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190111,
+    "password": "1234",
+    "name": "박민지",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190112,
+    "password": "1234",
+    "name": "박정현",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190113,
+    "password": "1234",
+    "name": "박혜인",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190114,
+    "password": "1234",
+    "name": "박다인",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190115,
+    "password": "1234",
+    "name": "박민정",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190116,
+    "password": "1234",
+    "name": "박혜민",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190117,
+    "password": "1234",
+    "name": "박민희",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190118,
+    "password": "1234",
+    "name": "박상원",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190119,
+    "password": "1234",
+    "name": "박가인",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190120,
+    "password": "1234",
+    "name": "박유나",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190121,
+    "password": "1234",
+    "name": "박서연",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190122,
+    "password": "1234",
+    "name": "박리나",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190123,
+    "password": "1234",
+    "name": "박정하",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190124,
+    "password": "1234",
+    "name": "서수아",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190125,
+    "password": "1234",
+    "name": "우태림",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190126,
+    "password": "1234",
+    "name": "오명지",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190127,
+    "password": "1234",
+    "name": "임준서",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190128,
+    "password": "1234",
+    "name": "임연지",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190129,
+    "password": "1234",
+    "name": "임성미",
+    "department": "컴퓨터학과"
+  },
+  {
+    "student_number": 20190130,
+    "password": "1234",
+    "name": "임주아",
+    "department": "컴퓨터학과"
+  }
+]

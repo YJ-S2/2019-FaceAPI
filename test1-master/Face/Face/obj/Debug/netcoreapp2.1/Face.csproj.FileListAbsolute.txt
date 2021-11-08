@@ -1,0 +1,11 @@
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\bin\Debug\netcoreapp2.1\Face.deps.json
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\bin\Debug\netcoreapp2.1\Face.runtimeconfig.json
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\bin\Debug\netcoreapp2.1\Face.runtimeconfig.dev.json
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\bin\Debug\netcoreapp2.1\Face.dll
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\bin\Debug\netcoreapp2.1\Face.pdb
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\obj\Debug\netcoreapp2.1\Face.csprojAssemblyReference.cache
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\obj\Debug\netcoreapp2.1\Face.csproj.CoreCompileInputs.cache
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\obj\Debug\netcoreapp2.1\Face.AssemblyInfoInputs.cache
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\obj\Debug\netcoreapp2.1\Face.AssemblyInfo.cs
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\obj\Debug\netcoreapp2.1\Face.dll
+C:\Users\munje\Documents\Source\Repos\test1\Face\Face\obj\Debug\netcoreapp2.1\Face.pdb

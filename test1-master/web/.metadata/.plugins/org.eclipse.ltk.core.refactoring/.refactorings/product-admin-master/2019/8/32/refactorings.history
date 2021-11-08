@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;WebContent&apos;&#x0D;&#x0A;- Original project: &apos;product-admin-master&apos;&#x0D;&#x0A;- Destination element: &apos;WebContent&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jquery-ui-datepicker&#x0D;&#x0A;     js&#x0D;&#x0A;     css&#x0D;&#x0A;     webfonts&#x0D;&#x0A;     img" description="Copy folders" element1="jquery-ui-datepicker" element2="js" element3="css" element4="webfonts" element5="img" files="0" flags="589830" folders="5" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1565143534096" target="/123/WebContent" units="0" version="1.0"/>
+</session>
